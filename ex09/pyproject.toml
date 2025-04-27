@@ -3,18 +3,15 @@ requires = ["hatchling >= 1.26"]
 build-backend = "hatchling.build"
 
 [project]
-name = "python-42_basheer421"
+name = "ft_package"
 version = "0.0.1"
 authors = [
   { name = "Bachir Ammar", email = "bammar@student.42abudhabi.ae" },
 ]
-description = "A small example package"
+description = "A sample test package"
 readme = "README.md"
 requires-python = ">=3.10"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "Operating System :: OS Independent",
-]
+
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
